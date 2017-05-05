@@ -1,0 +1,2 @@
+funArrange = require('../src')
+
