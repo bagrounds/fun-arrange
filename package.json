@@ -1,6 +1,6 @@
 {
   "name": "fun-arrange",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Arrange things!",
   "main": "src/index.js",
   "browser": "dist/bundle.js",
