@@ -6,10 +6,10 @@
   'use strict'
 
   /* imports */
-  var curry = require('fun-curry')
+  var fn = require('fun-function')
 
   /* exports */
-  module.exports = curry(arrange)
+  module.exports = fn.curry(arrange)
 
   /**
    *
